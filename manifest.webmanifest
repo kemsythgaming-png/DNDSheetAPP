@@ -1,0 +1,29 @@
+{
+  "name": "D&D 5e Charakterbogen",
+  "short_name": "D&D Sheet",
+  "description": "Verwalte deine D&D 5e Charaktere — auch offline",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#16213e",
+  "theme_color": "#16213e",
+  "lang": "de",
+  "categories": ["games", "utilities"],
+  "icons": [
+    {
+      "src": "/Kachel.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Kachel.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
