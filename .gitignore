@@ -1,0 +1,20 @@
+# Godot 4
+.godot/
+*.tmp
+*.import
+export.cfg
+export_presets.cfg
+.mono/
+data_*/
+mono_crash.*.json
+
+# Node / Vite
+node_modules/
+dist/
+dist-single/
+
+# Saves & persönliche Daten
+.speicher/
+
+# Claude Code
+.claude/

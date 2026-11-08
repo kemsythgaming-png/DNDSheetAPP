@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128">
+  <rect width="128" height="128" rx="16" fill="#2c1810"/>
+  <polygon points="64,10 74,40 106,40 82,58 91,88 64,70 37,88 46,58 22,40 54,40" fill="#d4af37" stroke="#8b7536" stroke-width="2"/>
+  <text x="64" y="115" font-family="serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#d4af37">D&amp;D</text>
+</svg>

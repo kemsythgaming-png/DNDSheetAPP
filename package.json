@@ -1,0 +1,24 @@
+{
+  "name": "dnd-app-v2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev2": "vite --port 3001",
+    "party": "node party-server.js",
+    "build": "vite build",
+    "build:single": "vite build --mode single --outDir dist-single",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.3",
+    "vite-plugin-singlefile": "^2.3.3",
+    "ws": "^8.21.0"
+  }
+}
